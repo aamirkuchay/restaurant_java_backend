@@ -29,3 +29,6 @@ This project is a Spring Boot-based backend application for managing restaurant 
 ### Installation
 
 1. Clone the repository:
+2. 2. Navigate to the project directory:
+3. Configure the database connection in `src/main/resources/application.properties`:
+4. Build the project:
